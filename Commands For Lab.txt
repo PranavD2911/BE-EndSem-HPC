@@ -1,0 +1,18 @@
+***** HPC ****
+(Write all this is Ubuntu Terminal)
+
+cd Desktop  --To Open Desktop
+ls  -- To View files in that folder
+g++ -fopenmp Bubble_Sort.cpp -o Bubble_Sort  -- To Compile code
+./Bubble_Sort	-- To run file
+
+nano ./Buuble_Sort.cpp  -- To open code 
+
+
+***** DL ****
+
+(Usually Save the file in download)
+
+cd path_ -- To open file in that particular folder
+
+jupyter notebool -- To open jupyter notebook with that particular folder 
